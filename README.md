@@ -4,10 +4,10 @@
 ## Objetivos:
 
 - Este é um conjunto de dados públicos de comércio eletrônico brasileiro de pedidos feitos em [Loja Olist](https://www.olist.com/) e disponibilizado no [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv). com esse conjunto de dados é possível fazer várias análises, a que escolhi foi **'há uma necessidade de investimento em uma área de melhoria da experiência do cliente ao ter um atraso na entrega?'**
-- O time de logistica não considera que o atraso na entrega é um problema relevante, e falou que em média, as entregas estão sendo feitas com 10 dias antes do prazo estabelecido.
+- O time de logistica __não considera que o atraso na entrega é um problema relevante__, e falou que em média, as entregas estão sendo feitas com 10 dias antes do prazo estabelecido.
 - Não é desejado a previsão de uma entrega atrasada, apenas a exposição do problema.
-- A ideia não é "nenhuma entrega pode atrasar", mas se ela atrasar, como podemos melhorar a experiencia do cliente?
 - Estes são dados comerciais reais, foram anonimizados e as referências às empresas e parceiros no texto de revisão foram substituídas pelos nomes das grandes casas de Game of Thrones.
+ 
 ![relacionamento entre tabelas](imagens//relacionamento_entre_tabelas.jpg)
 
 ## Principais bibliotecas utilizadas:
